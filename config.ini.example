@@ -1,0 +1,23 @@
+[database_default]
+host = localhost
+dbname = default_database
+user = default_user
+password = default_password
+
+[database_marketing]
+host = marketing.example.com
+dbname = marketing_db
+user = marketing_user
+password = marketing_password
+
+[database_sales]
+host = sales.example.com
+dbname = sales_db
+user = sales_user
+password = sales_password
+
+[company]
+name = Your Company Name
+
+[settings]
+memory_limit = 512M
